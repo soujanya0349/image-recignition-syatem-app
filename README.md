@@ -22,11 +22,11 @@ This is called Image Recognition.
 
 2. WHAT IS THE PURPOSE OF THIS PROJECT
 This project is used to:
-✔ Learn Artificial Intelligence (AI)
-✔ Learn Machine Learning (ML)
-✔ Learn Deep Learning (CNN model)
-✔ Learn Flask Web Framework
-✔ Build Real-time AI Web Applications
+Learn Artificial Intelligence (AI)
+Learn Machine Learning (ML)
+Learn Deep Learning (CNN model)
+Learn Flask Web Framework
+Build Real-time AI Web Applications
 
 3. REAL LIFE USES (APPLICATIONS)
 This technology is used in:
